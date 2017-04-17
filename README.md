@@ -1,7 +1,7 @@
 # test coverage for  [gulp-browserify (v0.5.1)](https://github.com/deepak1556/gulp-browserify)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-browserify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-browserify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-browserify.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-browserify)
 #### Bundle modules with Browserify
 
-[![NPM](https://nodei.co/npm/gulp-browserify.png?downloads=true)](https://www.npmjs.com/package/gulp-browserify)
+[![NPM](https://nodei.co/npm/gulp-browserify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-browserify)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-gulp-browserify/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-browserify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-browserify/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-browserify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-browserify/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-browserify/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-gulp-browserify/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-gulp-browserify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-browserify/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-gulp-browserify/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-gulp-browserify%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-browserify/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-browserify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-browserify/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-browserify/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-browserify%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-browserify/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-gulp-browserify/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-browserify/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-gulp-browserify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-browserify/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-browserify/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-browserify/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-browserify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-browserify/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-gulp-browserify/build/screenCapture.npmPackageListing.svg)
 
@@ -27,24 +33,20 @@
 
 {
     "author": {
-        "name": "Robo",
-        "email": "hop2deep@gmail.com"
+        "name": "Robo"
     },
     "bugs": {
         "url": "https://github.com/deepak1556/gulp-browserify/issues"
     },
     "contributors": [
         {
-            "name": "Robo",
-            "email": "hop2deep@gmail.com"
+            "name": "Robo"
         },
         {
-            "name": "Steve Lacy",
-            "email": "me@slacy.me"
+            "name": "Steve Lacy"
         },
         {
-            "name": "Shuhei Kagawa",
-            "email": "shuhei.kagawa@gmail.com"
+            "name": "Shuhei Kagawa"
         }
     ],
     "dependencies": {
@@ -79,13 +81,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "deepak_robo",
-            "email": "hop2deep@gmail.com"
+            "name": "deepak_robo"
         }
     ],
     "name": "gulp-browserify",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/deepak1556/gulp-browserify.git"
