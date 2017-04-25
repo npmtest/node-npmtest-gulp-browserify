@@ -1,4 +1,7 @@
-# test coverage for  [gulp-browserify (v0.5.1)](https://github.com/deepak1556/gulp-browserify)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-browserify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-browserify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-browserify.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-browserify)
+# npmtest-gulp-browserify
+
+#### basic test coverage for  [gulp-browserify (v0.5.1)](https://github.com/deepak1556/gulp-browserify)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-browserify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-browserify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-browserify.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-browserify)
+
 #### Bundle modules with Browserify
 
 [![NPM](https://nodei.co/npm/gulp-browserify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-browserify)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-browserify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-browserify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-browserify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-browserify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-browserify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-browserify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-browserify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-browserify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-browserify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-browserify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-browserify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-browserify/build/coverage.html/index.html)
 
@@ -93,7 +96,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.5.1"
+    "version": "0.5.1",
+    "bin": {}
 }
 ```
 
